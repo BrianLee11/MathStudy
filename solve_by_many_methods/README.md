@@ -1,2 +1,2 @@
-# Solve a linear equation
-Solve $x+7=9$
+# Solve a question using many different methods
+## Solve $x+7=9$: methods 1) isolation (using transitivity of operation in R)
