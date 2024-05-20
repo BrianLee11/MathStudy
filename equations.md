@@ -9,7 +9,7 @@ Method 1:
 
 Method 2:
 1. Begin with the given equation: $x+7=9$
-2. Subtract 9 from both sides of the equation to isolate $x$ : $x+7-9-=9-9$
+2. Subtract 9 from both sides of the equation to isolate $x$ : $x+7-9=9-9$
 3. Simplify the left side: $x-2=0$
 4. From $x-2 = 0$, x = 2 because 2 and -2 are additive inverses. 
 
