@@ -1,5 +1,5 @@
 ### Problem:
-Find \( x \in \mathbb{R} \) such that \( x + 7 = 9 \).
+Find $x \in \mathbb{R}$ such that $x + 7 = 9$.
 
 ### Method 1:
 1. Start with the given equation: \( x + 7 = 9 \)
