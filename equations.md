@@ -1,1 +1,5 @@
-$x+y = 30$
+Problem: find x such that $x + 7 = 9$
+
+
+
+
