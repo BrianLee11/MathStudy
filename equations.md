@@ -2,7 +2,7 @@ Problem:
 Find $x \in \mathbb{R}$ such that $x+7=9$.
 
 Method 1:
-1. Start with the given equation: $x+7-9$
+1. Start with the given equation: $x+7=9$
 2. Because of real numbers' transitivity on addition and substraction, subtract 7 from both sides of the equation to isolate $x$ : $x+7-7=9-7$
 3. Simplify both sides: $x+0=2$
 4. Thus, we have: $x=2$
