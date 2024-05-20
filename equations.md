@@ -18,4 +18,4 @@ $\Rightarrow x + 7 - 9 = 9 - 9$
 
 $\Rightarrow x + (-2) = 0$
 
-$\Rightarrow x = 2 \because \text{2 and -2 are additive inverses to each other}$
+$\Rightarrow x = 2 \quad \because \text{2 and -2 are additive inverses to each other}$
